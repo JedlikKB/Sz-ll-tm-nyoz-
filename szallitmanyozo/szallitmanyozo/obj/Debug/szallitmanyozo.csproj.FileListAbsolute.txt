@@ -1,0 +1,7 @@
+C:\Users\Kozma.Barnabás\Desktop\Új mappa\szallitmanyozo\szallitmanyozo\obj\Debug\szallitmanyozo.csprojAssemblyReference.cache
+C:\Users\Kozma.Barnabás\Desktop\Új mappa\szallitmanyozo\szallitmanyozo\obj\Debug\szallitmanyozo.csproj.CoreCompileInputs.cache
+C:\Users\Kozma.Barnabás\Desktop\Új mappa\szallitmanyozo\szallitmanyozo\bin\Debug\szallitmanyozo.exe.config
+C:\Users\Kozma.Barnabás\Desktop\Új mappa\szallitmanyozo\szallitmanyozo\bin\Debug\szallitmanyozo.exe
+C:\Users\Kozma.Barnabás\Desktop\Új mappa\szallitmanyozo\szallitmanyozo\bin\Debug\szallitmanyozo.pdb
+C:\Users\Kozma.Barnabás\Desktop\Új mappa\szallitmanyozo\szallitmanyozo\obj\Debug\szallitmanyozo.exe
+C:\Users\Kozma.Barnabás\Desktop\Új mappa\szallitmanyozo\szallitmanyozo\obj\Debug\szallitmanyozo.pdb
